@@ -1,0 +1,15 @@
+h1 {
+    font-weight: bolder;
+}
+
+.wrapper {
+    height: 100vh;
+}
+
+.correct {
+    color: blue;
+}
+
+.wrong {
+    color: red;
+}
